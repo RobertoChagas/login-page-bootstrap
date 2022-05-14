@@ -7,5 +7,5 @@ Features
 - Secundary button (Reset);
 - Login Alert.
 
-[Preview](https://github.com/RobertoChagas/login-page-bootstrap/blob/master/assets/previewLoginPageBootstrap.png)
+![Preview](https://github.com/RobertoChagas/login-page-bootstrap/blob/master/assets/previewLoginPageBootstrap.png)
 
